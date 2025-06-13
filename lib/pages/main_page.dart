@@ -18,7 +18,7 @@ class _MainPageState extends State<MainPage> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "MobX",
+          "GetX",
           style: TextStyle(color: Colors.white),
         ),
         backgroundColor: Colors.blueAccent,
