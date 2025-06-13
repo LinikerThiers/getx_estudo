@@ -34,7 +34,7 @@ class _MainPageState extends State<MainPage> {
               });
             },
             children: [
-              ContadorGetxPage(),
+              ContadorGetXPage(),
               TarefasPage(),
             ],
           )),
